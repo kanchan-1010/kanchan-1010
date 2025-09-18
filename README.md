@@ -4,24 +4,35 @@ I’m a **BTech AI & Data Science student** at **Dr. D.Y. Patil Vidyapeeth, Pune
 
 ---
 
-### 🚀 About Me:
-🔹 **Currently Learning:** Advanced Machine Learning, AI for Project Management, and Computer Vision.
+🚀 About Me:
 
-🔹 **Interested in:** Artificial Intelligence, Data Analytics, and Technology-driven Solutions.
+🔹 Currently Learning: Advanced Machine Learning, AI for Project Management, and Computer Vision.
 
-🔹 **Projects:**  
-   - 🌾 **Crop Yield Prediction** - Enhancing agricultural insights with AI.  
-   - 🧠 **AI Pitch Analysis** - A Flask web application that helps startups refine their pitch decks by analyzing PDFs and providing AI-driven feedback.  
-   - 💳 **Credit Card Fraud Detection Web App** - A Streamlit-based web app that classifies transactions as legitimate or fraudulent using a Logistic Regression model trained on credit card transaction data.
-   - 📊 **Investor Match Score Predictor** - A web application that predicts match scores for investor profiles based on industries, investment stage, and location using machine learning techniques.
+🔹 Interested in: Artificial Intelligence, Data Analytics, and Technology-driven Solutions.
 
-🔹 **Hackathons & Research:**  
-   - 🎯 Active participant in **Data Science competitions**.  
-   - 📊 Exploring **AI integration in analytics** for innovation.
+🔹 Projects:
 
-🔹 **Looking to Collaborate On:** AI-driven solutions, research projects, and innovative analytics tools.
+🧠 AI Pitch Analysis & Deck Feedback System - A Flask-based application that analyzes pitch decks (PDFs) and provides AI-driven feedback for startups.
 
-🔹 ⚡ **Fun Fact:** I can talk about AI and analytics for hours but still struggle with deep learning jokes! 😆
+💬 AI-Powered Chatbot for Web-Based Question Answering - An intelligent chatbot leveraging NLP models to answer domain-specific queries through a web interface.
+
+💳 Credit Card Fraud Detection Web App - A Streamlit-based application that classifies transactions as legitimate or fraudulent using Logistic Regression.
+
+📊 Investor Match Score Predictor - A web application that predicts match scores for investors based on industries, investment stage, and location using ML techniques.
+
+🗄️ Data Management System - A backend system designed to handle CRUD operations, authentication, and data organization using Python.
+
+🤝 Founder-Investor Data Matching Model - A machine learning model that matches founders with potential investors by analyzing industry focus, funding stages, and region compatibility.
+
+🔹 Hackathons & Research:
+
+🎯 Active participant in Data Science competitions.
+
+📊 Exploring AI integration in analytics for innovation.
+
+🔹 Looking to Collaborate On: AI-driven solutions, research projects, and innovative analytics tools.
+
+🔹 ⚡ Fun Fact: I can talk about AI and analytics for hours but still struggle with deep learning jokes! 😆
 
 ---
 
